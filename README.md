@@ -1,6 +1,6 @@
 # Travel List
 
-This project is a simple **Travel list* built using ReactJS, designed to add, check as complete and delete any travel item provided by the user. The interface provides a clean and elegant look with providing stats at the bottom of the viewport.
+This project is a simple **Travel list** built using ReactJS, designed to add, check as complete and delete any travel item provided by the user. The interface provides a clean and elegant look with providing stats at the bottom of the viewport.
 ## Features
 
 - **Add travel list item**: The app let's you add travel list item with quantity.
