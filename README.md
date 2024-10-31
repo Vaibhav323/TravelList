@@ -59,3 +59,4 @@ advice-generator/
 ├── package.json              # Project dependencies
 └── README.md                 # Project documentation`
 ```
+*Project implemented from "Master modern React from beginner to advanced! Next.js, Context API, React Query, Redux, Tailwind, advanced patterns" course.*
